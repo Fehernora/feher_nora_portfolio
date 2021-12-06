@@ -1,0 +1,76 @@
+body, html {
+  width: 100%;
+  font-family: "Abel";
+ 
+  background-size: cover;
+}
+
+h1{
+	color: black;
+  
+  padding: 8px 0 8px 0;
+  font-size: 200px;
+
+
+}
+.gomb_burkolo{
+	display: flex;
+	color: black;
+	background-color: red;
+}
+a{
+	text-decoration: none;
+}
+.photo2{
+	max-width: 300px;
+}
+.gomb1{
+	
+	margin: 0px 5%;
+	font-weight: 100px;
+	
+}
+.gomb2{
+	margin: 0px 5%;
+
+}
+.gomb3{
+	margin: 0px 5%;
+}
+.gomb4{
+	margin: 0px 5%;
+}
+.backgr
+{
+	background-position: cover;
+  max-width: 100%;
+}
+p{
+
+}
+
+.graphics{
+	max-width: 300px;
+	text-align: center;
+  display: inline-block;
+}
+
+img{
+	max-width: 300px
+
+}
+ .photos{
+  max-width: 300px;
+  text-align: center;
+  display: inline-block;
+  
+ }
+ .pre{
+ 	max-width: 300px;
+  text-align: center;
+  display: inline-block;
+ }
+ #photos{
+
+ }
+
